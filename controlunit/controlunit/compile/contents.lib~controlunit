@@ -1,0 +1,5 @@
+13
+~E 1 "../src/controlunit.vhd" 13 controlunit
+~A 1 "../src/controlunit.vhd" 9 Behavioral
+~E 1 "../src/controlunit_test.vhd" 6 controlunit_test
+~A 1 "../src/controlunit_test.vhd" 9 Behavioral

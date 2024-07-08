@@ -1,0 +1,7 @@
+.\src\registerfile.vhd
+.\src\ram.vhd
+.\src\pcunit.vhd
+.\src\decoder.vhd
+.\src\controlunit.vhd
+.\src\alu.vhd
+.\src\cpu.vhd

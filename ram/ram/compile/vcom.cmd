@@ -1,0 +1,1 @@
+-w -erf E:/dars/CA_Project_401522133/ram/ram/compile/ram.erf -d E:/dars/CA_Project_401522133/ram/ram/compile -s E:/dars/CA_Project_401522133/ram/library.cfg -j E:/dars/CA_Project_401522133/ram/ram/projlib.cfg -work ram -dbg -e 100 -work ram -2002 E:/dars/CA_Project_401522133/ram/ram/src/ram.vhd E:/dars/CA_Project_401522133/ram/ram/src/ram_test.vhd 

@@ -1,0 +1,7 @@
+MESSAGE "File: E:/dars/CA_Project_401522133/controlunit/controlunit/src/controlunit.vhd" 
+MESSAGE "Compile Entity "controlunit"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "controlunit"" 
+MESSAGE "File: E:/dars/CA_Project_401522133/controlunit/controlunit/src/controlunit_test.vhd" 
+MESSAGE "Compile Entity "controlunit_test"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "controlunit_test"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]" 

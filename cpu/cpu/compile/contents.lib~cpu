@@ -1,0 +1,15 @@
+1
+~E 1 "../src/alu.vhd" 4 alu
+~A 1 "../src/alu.vhd" 18 Behavioral
+~E 1 "../src/controlunit.vhd" 3 controlunit
+~A 1 "../src/controlunit.vhd" 9 Behavioral
+~E 1 "../src/cpu.vhd" 13 cpu
+~A 1 "../src/cpu.vhd" 18 Behavioral
+~E 1 "../src/decoder.vhd" 3 decoder
+~A 1 "../src/decoder.vhd" 15 Behavioral
+~E 1 "../src/pcunit.vhd" 4 pcunit
+~A 1 "../src/pcunit.vhd" 11 Behavioral
+~E 1 "../src/ram.vhd" 13 ram
+~A 1 "../src/ram.vhd" 23 Behavioral
+~E 1 "../src/registerfile.vhd" 13 registerfile
+~A 1 "../src/registerfile.vhd" 25 Behavioral

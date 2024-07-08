@@ -1,0 +1,5 @@
+40
+~E 1 "../src/pcunit.vhd" 13 pcunit
+~A 1 "../src/pcunit.vhd" 11 Behavioral
+~E 1 "../src/pcunit_test.vhd" 6 pcunit_test
+~A 1 "../src/pcunit_test.vhd" 8 Behavioral

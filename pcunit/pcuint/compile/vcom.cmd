@@ -1,0 +1,1 @@
+-w -erf E:/dars/random2/pcunit/pcuint/compile/pcuint.erf -d E:/dars/random2/pcunit/pcuint/compile -s E:/dars/random2/pcunit/library.cfg -j E:/dars/random2/pcunit/pcuint/projlib.cfg -work pcuint -dbg -e 100 -work pcuint -2002 E:/dars/random2/pcunit/pcuint/src/pcunit.vhd E:/dars/random2/pcunit/pcuint/src/pcunit_test.vhd 

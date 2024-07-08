@@ -1,0 +1,1 @@
+-w -erf E:/dars/random2/alu/alu/alu/alud/compile/alud.erf -d E:/dars/random2/alu/alu/alu/alud/compile -s E:/dars/random2/alu/alu/alu/library.cfg -j E:/dars/random2/alu/alu/alu/alud/projlib.cfg -work alud -dbg -e 100 -work alud -2002 E:/dars/random2/alu/alu/alu/alud/src/alu.vhd E:/dars/random2/alu/alu/alu/alud/src/alu_test.vhd 

@@ -1,0 +1,7 @@
+MESSAGE "File: E:/dars/random2/pcunit/pcuint/src/pcunit.vhd" 
+MESSAGE "Compile Entity "pcunit"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "pcunit"" 
+MESSAGE "File: E:/dars/random2/pcunit/pcuint/src/pcunit_test.vhd" 
+MESSAGE "Compile Entity "pcunit_test"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "pcunit_test"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  46.0 [ms]" 

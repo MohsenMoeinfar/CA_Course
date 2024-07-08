@@ -1,0 +1,12 @@
+[Version]
+Version=13.0
+[Designs]
+alud=.\alud\alud.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+alud=1

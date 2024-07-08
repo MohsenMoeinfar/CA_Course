@@ -1,0 +1,7 @@
+MESSAGE "File: E:/dars/random2/alu/alu/alu/alud/src/alu.vhd" 
+MESSAGE "Compile Entity "alu"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "alu"" 
+MESSAGE "File: E:/dars/random2/alu/alu/alu/alud/src/alu_test.vhd" 
+MESSAGE "Compile Entity "tb_alu"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "tb_alu"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]" 

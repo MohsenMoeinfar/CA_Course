@@ -1,0 +1,7 @@
+MESSAGE "File: E:/dars/CA_Project_401522133/registerfile/registerfile/src/registerfile.vhd" 
+MESSAGE "Compile Entity "registerfile"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "registerfile"" 
+MESSAGE "File: E:/dars/CA_Project_401522133/registerfile/registerfile/src/registerfile_test.vhd" 
+MESSAGE "Compile Entity "registerfile_test"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "registerfile_test"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  93.0 [ms]" 

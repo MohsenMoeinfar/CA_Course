@@ -1,0 +1,39 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=cpu
+[Library]
+cpu=.\cpu\cpu.lib
+[$LibMap$]
+cpu=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\Public\Downloads\add_subtract\random2\random2
+[Files]
+/registerfile.vhd=-1
+/ram.vhd=-1
+/pcunit.vhd=-1
+/decoder.vhd=-1
+/controlunit.vhd=-1
+/alu.vhd=-1
+/cpu.vhd=-1
+[Files.Data]
+.\src\registerfile.vhd=VHDL Source Code
+.\src\ram.vhd=VHDL Source Code
+.\src\pcunit.vhd=VHDL Source Code
+.\src\decoder.vhd=VHDL Source Code
+.\src\controlunit.vhd=VHDL Source Code
+.\src\alu.vhd=VHDL Source Code
+.\src\cpu.vhd=VHDL Source Code
+[HierarchyViewer]
+HierarchyInformation=cpu|Behavioral|0
+ShowHide=ShowTopLevel
+Selected=

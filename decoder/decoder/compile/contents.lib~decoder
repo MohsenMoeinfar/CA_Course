@@ -1,0 +1,5 @@
+32
+~E 1 "../src/decoder.vhd" 13 decoder
+~A 1 "../src/decoder.vhd" 15 Behavioral
+~E 1 "../src/decoder_test.vhd" 6 decoder_test
+~A 1 "../src/decoder_test.vhd" 8 Behavioral

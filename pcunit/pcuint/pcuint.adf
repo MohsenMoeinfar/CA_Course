@@ -1,0 +1,29 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=pcuint
+[Library]
+pcuint=.\pcuint\pcuint.lib
+[$LibMap$]
+pcuint=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\esikh\neat\GitHub\risc
+[Files]
+/pcunit.vhd=-1
+/pcunit_test.vhd=-1
+[Files.Data]
+.\src\pcunit.vhd=VHDL Source Code
+.\src\pcunit_test.vhd=VHDL Source Code
+[HierarchyViewer]
+HierarchyInformation=pcunit_test|Behavioral|0
+ShowHide=ShowTopLevel
+Selected=

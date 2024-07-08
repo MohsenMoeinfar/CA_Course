@@ -1,0 +1,29 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=decoder
+[Library]
+decoder=.\decoder\decoder.lib
+[$LibMap$]
+decoder=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\esikh\neat\GitHub\risc
+[Files]
+/decoder.vhd=-1
+/decoder_test.vhd=-1
+[Files.Data]
+.\src\decoder.vhd=VHDL Source Code
+.\src\decoder_test.vhd=VHDL Source Code
+[HierarchyViewer]
+HierarchyInformation=decoder_test|Behavioral|0
+ShowHide=ShowTopLevel
+Selected=

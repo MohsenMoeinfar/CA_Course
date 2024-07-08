@@ -1,0 +1,47 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+controlunit_test controlunit_test Behavioral
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+acom -dbg -e 100 -work controlunit -2002  $dsn/src/controlunit.vhd $dsn/src/controlunit_test.vhd
+# File: E:/dars/CA_Project_401522133/controlunit/controlunit/src/controlunit.vhd
+# Compile Entity "controlunit"
+# Compile Architecture "Behavioral" of Entity "controlunit"
+# File: E:/dars/CA_Project_401522133/controlunit/controlunit/src/controlunit_test.vhd
+# Compile Entity "controlunit_test"
+# Compile Architecture "Behavioral" of Entity "controlunit_test"
+# Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5451 kB (elbread=427 elab2=4882 kernel=141 sdf=0)
+# KERNEL: ASDB file was created in location E:\dars\CA_Project_401522133\controlunit\controlunit\src\wave.asdb
+#  4:25 PM, Sunday, July 7, 2024
+#  Simulation has been initialized
+run
+# EXECUTION:: NOTE   : Test case 1 passed.
+# EXECUTION:: Time: 10 ns,  Iteration: 0,  Instance: /controlunit_test,  Process: stimulus_process.
+# EXECUTION:: NOTE   : Test case 2 passed.
+# EXECUTION:: Time: 20 ns,  Iteration: 0,  Instance: /controlunit_test,  Process: stimulus_process.
+# EXECUTION:: NOTE   : Test case 3 passed.
+# EXECUTION:: Time: 50 ns,  Iteration: 0,  Instance: /controlunit_test,  Process: stimulus_process.
+# EXECUTION:: NOTE   : Test case 4 passed.
+# EXECUTION:: Time: 100 ns,  Iteration: 0,  Instance: /controlunit_test,  Process: stimulus_process.
+# EXECUTION:: NOTE   : Test case 5 passed.
+# EXECUTION:: Time: 110 ns,  Iteration: 0,  Instance: /controlunit_test,  Process: stimulus_process.
+endsim
+# KERNEL: stopped at time: 1545939905 ns
+# VSIM: Simulation has finished.

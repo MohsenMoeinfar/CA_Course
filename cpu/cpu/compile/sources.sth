@@ -1,0 +1,14 @@
+[Files List]
+C:\Aldec\Active-HDL-13-x64\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/numeric_std-body.vhdl=S
+E:\dars\CA_Project_401522133\cpu\cpu/src/ram.vhd=S
+E:\dars\CA_Project_401522133\cpu\cpu/src/pcunit.vhd=S
+E:\dars\CA_Project_401522133\cpu\cpu/src/controlunit.vhd=S
+E:\dars\CA_Project_401522133\cpu\cpu/src/alu.vhd=S
+E:\dars\CA_Project_401522133\cpu\cpu/src/decoder.vhd=S
+E:\dars\CA_Project_401522133\cpu\cpu/src/registerfile.vhd=S
+E:\dars\CA_Project_401522133\cpu\cpu/src/cpu.vhd=S

@@ -1,0 +1,7 @@
+75
+~E 1 "../src/alu.vhd" 4 alu
+~A 1 "../src/alu.vhd" 18 Behavioral
+~E 1 "../src/alu_test.vhd" 6 alu_test
+~A 1 "../src/alu_test.vhd" 9 Behavioral
+~E 1 "../src/alu_test.vhd" 5 tb_alu
+~A 1 "../src/alu_test.vhd" 8 Behavioral

@@ -1,0 +1,43 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+ram_test ram_test Behavioral
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+acom -dbg -e 100 -work ram -2002  $dsn/src/ram.vhd $dsn/src/ram_test.vhd
+# File: E:/dars/CA_Project_401522133/ram/ram/src/ram.vhd
+# Compile Entity "ram"
+# Compile Architecture "Behavioral" of Entity "ram"
+# File: E:/dars/CA_Project_401522133/ram/ram/src/ram_test.vhd
+# Compile Entity "ram_test"
+# Compile Architecture "Behavioral" of Entity "ram_test"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5586 kB (elbread=427 elab2=5018 kernel=141 sdf=0)
+# KERNEL: ASDB file was created in location E:\dars\CA_Project_401522133\ram\ram\src\wave.asdb
+#  3:52 PM, Sunday, July 7, 2024
+#  Simulation has been initialized
+run
+# EXECUTION:: NOTE   : Test case 1 passed.
+# EXECUTION:: Time: 20 ns,  Iteration: 0,  Instance: /ram_test,  Process: stimulus_process.
+# EXECUTION:: NOTE   : Test case 2 passed.
+# EXECUTION:: Time: 40 ns,  Iteration: 0,  Instance: /ram_test,  Process: stimulus_process.
+# EXECUTION:: NOTE   : Test case 3 passed.
+# EXECUTION:: Time: 50 ns,  Iteration: 0,  Instance: /ram_test,  Process: stimulus_process.
+endsim
+# KERNEL: stopped at time: 572109465 ns
+# VSIM: Simulation has finished.

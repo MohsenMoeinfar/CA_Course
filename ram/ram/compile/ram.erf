@@ -1,0 +1,7 @@
+MESSAGE "File: E:/dars/CA_Project_401522133/ram/ram/src/ram.vhd" 
+MESSAGE "Compile Entity "ram"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "ram"" 
+MESSAGE "File: E:/dars/CA_Project_401522133/ram/ram/src/ram_test.vhd" 
+MESSAGE "Compile Entity "ram_test"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "ram_test"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

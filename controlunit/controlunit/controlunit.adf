@@ -1,0 +1,29 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=controlunit
+[Library]
+controlunit=.\controlunit\controlunit.lib
+[$LibMap$]
+controlunit=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\esikh\neat\GitHub\risc
+[Files]
+/controlunit.vhd=-1
+/controlunit_test.vhd=-1
+[Files.Data]
+.\src\controlunit.vhd=VHDL Source Code
+.\src\controlunit_test.vhd=VHDL Source Code
+[HierarchyViewer]
+HierarchyInformation=controlunit_test|Behavioral|0
+ShowHide=ShowTopLevel
+Selected=

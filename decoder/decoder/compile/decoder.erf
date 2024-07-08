@@ -1,0 +1,7 @@
+MESSAGE "File: E:/dars/CA_Project_401522133/decoder/decoder/src/decoder.vhd" 
+MESSAGE "Compile Entity "decoder"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "decoder"" 
+MESSAGE "File: E:/dars/CA_Project_401522133/decoder/decoder/src/decoder_test.vhd" 
+MESSAGE "Compile Entity "decoder_test"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "decoder_test"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

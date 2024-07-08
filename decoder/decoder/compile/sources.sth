@@ -1,0 +1,9 @@
+[Files List]
+C:\Aldec\Active-HDL-13-x64\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-13-x64\vlib\ieee/src/numeric_std-body.vhdl=S
+E:\dars\CA_Project_401522133\decoder\decoder/src/decoder.vhd=S
+E:\dars\CA_Project_401522133\decoder\decoder/src/decoder_test.vhd=S

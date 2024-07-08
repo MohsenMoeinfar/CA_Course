@@ -1,0 +1,55 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=ram
+[Library]
+ram=.\ram\ram.lib
+[$LibMap$]
+ram=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\esikh\neat\GitHub\risc
+[Files]
+/ram.vhd=-1
+/ram_test.vhd=-1
+[Files.Data]
+.\src\ram.vhd=VHDL Source Code
+.\src\ram_test.vhd=VHDL Source Code
+[DesignStructure]
+VerilogSourceCode=.\src
+SystemVerilogSourceCode=.\src
+SDF=.\src
+Macro=.\src
+TclScript=.\src
+BlockDiagram=.\src
+StateDiagram=.\src
+VHDLSourceCode=.\src
+PslSourceCode=.\src
+WaveformASDBE=.\src
+WaveformASDB=.\src
+WaveformASDBC=.\src
+PerlScript=.\src
+MemFile=.\src
+EDIFSchematic=.\src
+Drawing=.\src
+Text=.\src
+ExternalFile=.\src
+adc=.\src
+Cpp=.\src
+WaveformASDBAWC=.\src
+HTMLDocument=.\src
+EDIFNetlist=.\src
+SymbolSheet=.\src
+GenerateToCustomFolder=0
+[HierarchyViewer]
+HierarchyInformation=ram_test|Behavioral|0
+ShowHide=ShowTopLevel
+Selected=

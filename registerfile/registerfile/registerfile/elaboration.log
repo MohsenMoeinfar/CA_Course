@@ -1,0 +1,33 @@
+Active-HDL 13.0.375.8320 2024-07-07 16:02:25
+
+Elaboration top modules:
+Architecture                  Behavioral(registerfile_test)
+
+
+---------------------------------------------------------------------------------------------------------
+Entity            | Architecture | Library      | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------
+registerfile_test | Behavioral   | registerfile |      | 13.0.375.8320 (Windows64) | -dbg
+registerfile      | Behavioral   | registerfile |      | 13.0.375.8320 (Windows64) | -dbg
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+VHDL Package                     | Library      | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------------
+standard                         | std          |      |                           | <unavailable>
+TEXTIO                           | std          |      | 13.0.375.8320 (Windows64) |  -2019
+std_logic_1164                   | ieee         |      | 13.0.375.8320 (Windows64) |  -2008
+NUMERIC_STD                      | ieee         |      | 13.0.375.8320 (Windows64) |  -2008
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+Library                          | Comment
+---------------------------------------------------------------------------------------------------------
+ieee                             | Standard IEEE packages library
+registerfile                     | None
+std                              | Standard VHDL library
+---------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+registerfile_test registerfile_test Behavioral
+
